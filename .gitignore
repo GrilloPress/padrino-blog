@@ -1,0 +1,8 @@
+.DS_Store
+sample_blog/log/**/*
+sample_blog/tmp/**/*
+sample_blog/vendor/gems/*
+sample_blog/!vendor/gems/cache/
+sample_blog/.sass-cache/*
+sample_blog/db/*.db
+sample_blog/.*.sw*
